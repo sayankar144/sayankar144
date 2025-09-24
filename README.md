@@ -1,36 +1,17 @@
-# Hi, I’m Sharmistha 👋
+# Hi, I’m Sharmistha 👋  
 
-💡 *Machine Learning & Data Science Enthusiast | Exploring MLOps & NLP | Currently learning Deep Learning*
-
----
-
-## 🚀 About Me
-- Focused on **EDA** & **Feature Engineering** in Data Science  
-- Interested in **Machine Learning**, **MLOps**, and **NLP**  
-- Currently learning **Deep Learning**  
-- Tech stack: **C / C++ · Python · SQL**
+💡 *AI & ML Enthusiast | Data Science Explorer | MLOps Practitioner*  
 
 ---
 
-## 🌟 Projects
-- [🎬 Movie Recommendation System](https://github.com/YOUR_GITHUB_USERNAME/Movie-Recommendation-System)  
-- [⚡ End-to-End MLOps Project](https://github.com/YOUR_GITHUB_USERNAME/End-to-End-MLops-Project)
+## 📊 Profile  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
-- 📧 your.email@example.com  
-
----
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&lo)
